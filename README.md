@@ -39,7 +39,7 @@ just remember the *basic work flow* with Git/GitHub:
 + `git clone` \<project_url\>
   + Clone the repository once for the first time to yourself as a local repository
 + `git pull`
-  + Update the repository from the GitHub repository
+  + Update the local repository from the GitHub repository
 + `git add` \<files\>
   + Prepare the edited files for commit and push
 + `git commit`
