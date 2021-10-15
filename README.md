@@ -41,4 +41,6 @@ just remember the basic work flow with Git/GitHub:
 + `git push`
   + Push the `git commit` updates to the GitHub repository
   
-   
+The [Hello World](https://guides.github.com/activities/hello-world/) in [GitHub guides](https://guides.github.com) 
+shows the recommended work flow in GitHub with branches, pull requests etc. but we can take this at later time.
+
