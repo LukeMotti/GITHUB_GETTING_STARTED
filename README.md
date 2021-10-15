@@ -17,7 +17,7 @@ The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
 (Note the wiki pages are reserved for public repositories.)
 
-We plan to use doxygen to integrate the software development and it's documentation.
+We plan to use [doxygen](https://www.doxygen.nl/index.html) to integrate the software development and it's documentation.
 doxyxen can exploit the program structure and the annotated comments and automatically
 generate software documentation in various formats (html, pdf).
 
