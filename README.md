@@ -5,7 +5,7 @@ some ordering of the reading list.
 
 ## GitHub Guides
 The [GitHub guides](https://guides.github.com) provides good tutorials for Git and GitHub.
-You can read them in the order of appearance but here are some highlights.
+You can read them in the order of appearance but here are three highlights.
 
 ### GitHub Handbook
 The [GitHub Handbook](https://guides.github.com/introduction/git-handbook/) explains the Git
@@ -19,7 +19,7 @@ Suggestions what to include in a README file can be found [About-READMEs](https:
 A bit more elaborative example to use these markdown files (.md files) is in [lukeghg](https://github.com/jariperttunen/lukeghg).
 
 You may also use the repository **About** field in GitHub to write a few words about the project. It will appear in the repository 
-listing and provide quick guide about project. 
+listings and provide quick guide about project. 
 
 (Note the GitHub wiki pages are reserved for public repositories.)
 
