@@ -15,7 +15,7 @@ version control system and how it integrates with GitHub.
 The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create README files
 (like this one) to give a short project descriptions. To do this with GitHub markdown language 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
-(Note the wiki pages are reserved for public repositories.)
+(Note the GitHub wiki pages are reserved for public repositories.)
 
 We plan to use [Doxygen](https://www.doxygen.nl/index.html) to integrate the software development and it's documentation.
 Doxygen can exploit the program structure together with the annotated comments and automatically
