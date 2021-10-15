@@ -29,10 +29,10 @@ just remeber the basic work flow with Git/GitHub:
   + Clone the project for the first time to yourself as a local repository
 + `git pull`
   + Update the project from the GitHub repository
-+ `git add` \<file\>
++ `git add` \<files\>
   + Prepare the file commit and push
 + `git commit`
-  + Update the your local repository with files from previous `git add`
+  + Update the your local repository with files from previous `git add` commands.
 + `git push`
   + Push the `git commit` updates to the GitHub repository
   
