@@ -17,7 +17,7 @@ The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
 (Note the GitHub wiki pages are reserved for public repositories.)
 
-We plan to use [Doxygen](https://www.doxygen.nl/index.html) to integrate the software development and it's documentation.
+We plan to use [Doxygen](https://www.doxygen.nl/index.html) to integrate the software development and documentation.
 Doxygen can exploit the program structure together with the annotated comments and automatically
 generate software documentation in various formats (html, pdf). Regarding Motti this is mostly
 applicable to Fortran and python. 
