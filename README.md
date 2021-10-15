@@ -37,9 +37,9 @@ The [GitHub Desktop Guide](https://docs.github.com/en/desktop) tells you how to 
 GitHub Desktop to manage your project work. It may look overwhelming at start but
 just remember the basic work flow with Git/GitHub:
 + `git clone` \<project_url\>
-  + Clone the project for the first time to yourself as a local repository
+  + Clone the repository for the first time to yourself as a local repository
 + `git pull`
-  + Update the project from the GitHub repository
+  + Update the repository from the GitHub repository
 + `git add` \<files\>
   + Prepare the edited files for commit and push
 + `git commit`
