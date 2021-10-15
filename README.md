@@ -1,10 +1,10 @@
 # GITHUB GETTING STARTED
 This guide is intended to get you started with GitHub and Git. It is not intended 
-to be a full manual but it will guide you to (well written) manuals instead providing
-ordering of the reading list.
+to be a full manual but it will guide you to (well written) manuals instead, providing
+some ordering of the reading list.
 
 ## GitHub Guides
-The [GitHug guides)[https://guides.github.com] provides good tutorials for Git and GutHub.
+The [GitHug guides](https://guides.github.com] provides good tutorials for Git and GutHub.
 You can read them in the order of appearance but here are some highlights.
 
 ### GitHub Handbook
