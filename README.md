@@ -29,7 +29,7 @@ generate software documentation in various formats (html, pdf). Regarding Motti 
 applicable to Fortran and python. 
 
 ### Mastering Issues
-GitHub issues are to keep track of tasks, enhancements and bugs for your projects. This
+GitHub Issues are to keep track of tasks, enhancements and bugs for your projects. This
 is expained in [Mastering Issues](https://guides.github.com/features/issues/).
 
 ## GitHub Desktop Guide
