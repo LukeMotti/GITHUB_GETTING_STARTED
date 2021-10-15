@@ -18,7 +18,7 @@ is explained in [Mastering Markdown](https://guides.github.com/features/masterin
 Suggestions what to include in a README file can be found [About-READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 A bit more elaborative example to use these markdown files (.md files) is in [lukeghg](https://github.com/jariperttunen/lukeghg).
 
-You may also use the repository **About** field to write a few words about the project. It will appear in the repository 
+You may also use the repository **About** field in GitHub to write a few words about the project. It will appear in the repository 
 listing and provide quick guide about project. 
 
 (Note the GitHub wiki pages are reserved for public repositories.)
