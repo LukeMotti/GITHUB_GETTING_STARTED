@@ -24,5 +24,5 @@ just remeber the basic work flow with Git/GitHub:
 + `git commit`
   + Update the your local repository with files from previous `git add`
 + `git push`
-  + Push the updates to the GitHub repository
+  + Push the `git commit` updates to the GitHub repository
    
