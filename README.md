@@ -18,7 +18,7 @@ is explained in [Mastering Markdown](https://guides.github.com/features/masterin
 (Note the wiki pages are reserved for public repositories.)
 
 ### Mastering Issues
-GitHub issues are to keep track of tasks, enhancements, and bugs for your projects. This
+GitHub issues are to keep track of tasks, enhancements and bugs for your projects. This
 is expained in [Mastering Issues]>(https://guides.github.com/features/issues/).
 
 ## Hello World
