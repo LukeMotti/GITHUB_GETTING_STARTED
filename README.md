@@ -25,7 +25,7 @@ is expained in [Mastering Issues](https://guides.github.com/features/issues/).
 The [GitHub Desktop Guide](https://docs.github.com/en/desktop) tells you how to use 
 GitHub Desktop to manage your project work. It may look overwhelming at start but
 just remeber the basic work flow with Git/GitHub:
-+ `git clone \<project_url\>
++ `git clone` \<project_url\>
   + Clone the project for the first time to yourself as a local repository
 + `git pull`
   + Update the project from the GitHub repository
