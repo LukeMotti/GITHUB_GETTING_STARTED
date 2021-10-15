@@ -30,7 +30,7 @@ applicable to Fortran and python.
 
 ### Mastering Issues
 GitHub Issues are to keep track of tasks, enhancements and bugs for your projects. This
-is expained in [Mastering Issues](https://guides.github.com/features/issues/).
+is explained in [Mastering Issues](https://guides.github.com/features/issues/).
 
 ## GitHub Desktop Guide
 The [GitHub Desktop Guide](https://docs.github.com/en/desktop) tells you how to use 
