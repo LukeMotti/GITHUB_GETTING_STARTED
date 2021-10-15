@@ -46,7 +46,9 @@ just remember the *basic work flow* with Git/GitHub:
   + Update the your local repository with files from previous `git add` commands.
 + `git push`
   + Push the `git commit` updates to the GitHub repository
-  
+
+These commands will take a big bulk of your work with Git/GitHub.
+
 The [Hello World](https://guides.github.com/activities/hello-world/) in [GitHub guides](https://guides.github.com) 
 shows the recommended work flow in GitHub with branches, pull requests etc. but we can take this at later time.
 
