@@ -13,7 +13,7 @@ version control system and how it integrates with GitHub.
 
 ### Documenting your projects in GitHub
 The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create README files
-(like this one) to give a short project descriptions. To do this with GitHub markdown language 
+(like this one) to give short repository descriptions. To do this with GitHub markdown language 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 A bit more elaborative example to use these markdown files (.md files) is in [lukeghg](https://github.com/jariperttunen/lukeghg).
 
