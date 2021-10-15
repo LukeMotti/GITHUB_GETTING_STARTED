@@ -14,7 +14,9 @@ version control system and how it integrates with GitHub.
 ### Documenting your projects in GitHub
 The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create README files
 (like this one) to give a short project descriptions. To do this with GitHub markdown language 
-is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
+is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+A bit more elaborative example of use these markdown file is in [lukeghg](https://github.com/jariperttunen/lukeghg).
+
 (Note the GitHub wiki pages are reserved for public repositories.)
 
 We plan to use [Doxygen](https://www.doxygen.nl/index.html) to integrate the software development and documentation.
