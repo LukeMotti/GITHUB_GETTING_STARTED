@@ -17,7 +17,11 @@ The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
 (Note the wiki pages are reserved for public repositories.)
 
-### Hello World
+### Mastering Issues
+GitHub issues are to keep track of tasks, enhancements, and bugs for your projects. This
+is expained in [Mastering Issues]>(https://guides.github.com/features/issues/).
+
+## Hello World
 The [GitHub Desktop Guide](https://docs.github.com/en/desktop) tells you how to use 
 GitHub Desktop to manage your project work. It may look overwhelming at start but
 just remeber the basic work flow with Git/GitHub:
