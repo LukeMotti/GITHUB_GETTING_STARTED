@@ -19,7 +19,7 @@ is explained in [Mastering Markdown](https://guides.github.com/features/masterin
 
 ### Mastering Issues
 GitHub issues are to keep track of tasks, enhancements and bugs for your projects. This
-is expained in [Mastering Issues]>(https://guides.github.com/features/issues/).
+is expained in [Mastering Issues](https://guides.github.com/features/issues/).
 
 ## Hello World
 The [GitHub Desktop Guide](https://docs.github.com/en/desktop) tells you how to use 
