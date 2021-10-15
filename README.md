@@ -28,6 +28,9 @@ Doxygen can exploit the program structure together with the annotated comments a
 generate software documentation in various formats (html, pdf). Regarding Motti this is mostly
 applicable to Fortran and python. 
 
+Yes, the longest section. But the documentation should give others and the *future yourself* to understand
+how to get involved and and participate hereafter in the software development. 
+
 ### Mastering Issues
 GitHub Issues are to keep track of tasks, enhancements and bugs for your projects. This
 is explained in [Mastering Issues](https://guides.github.com/features/issues/).
