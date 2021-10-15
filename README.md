@@ -15,6 +15,7 @@ version control system and how it integrates with GitHub.
 The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create README files
 (like this one) to give short repository descriptions. To do this with GitHub markdown language 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+Suggestions what to include in a README file can be found [About-READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 A bit more elaborative example to use these markdown files (.md files) is in [lukeghg](https://github.com/jariperttunen/lukeghg).
 
 You may also use the repository **About** field to write a few words about the project. It will appear in the repository 
