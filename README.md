@@ -18,8 +18,9 @@ is explained in [Mastering Markdown](https://guides.github.com/features/masterin
 (Note the wiki pages are reserved for public repositories.)
 
 We plan to use [doxygen](https://www.doxygen.nl/index.html) to integrate the software development and it's documentation.
-doxyxen can exploit the program structure and the annotated comments and automatically
-generate software documentation in various formats (html, pdf).
+doxygen can exploit the program structure and the annotated comments and automatically
+generate software documentation in various formats (html, pdf). Regarding Motti this is mostly
+applicable to Fortran and python. 
 
 ### Mastering Issues
 GitHub issues are to keep track of tasks, enhancements and bugs for your projects. This
