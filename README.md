@@ -17,6 +17,9 @@ The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create 
 is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 A bit more elaborative example to use these markdown files (.md files) is in [lukeghg](https://github.com/jariperttunen/lukeghg).
 
+You may also use the repository **About** field to write a few words about the project. It will appear in the repository 
+listing and provide quick guide about project. 
+
 (Note the GitHub wiki pages are reserved for public repositories.)
 
 We plan to use [Doxygen](https://www.doxygen.nl/index.html) to integrate the software development and documentation.
