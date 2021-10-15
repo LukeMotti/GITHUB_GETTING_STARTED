@@ -18,7 +18,7 @@ is explained in [Mastering Markdown](https://guides.github.com/features/masterin
 (Note the wiki pages are reserved for public repositories.)
 
 We plan to use [doxygen](https://www.doxygen.nl/index.html) to integrate the software development and it's documentation.
-doxygen can exploit the program structure and the annotated comments and automatically
+doxygen can exploit the program structure together with the annotated comments and automatically
 generate software documentation in various formats (html, pdf). Regarding Motti this is mostly
 applicable to Fortran and python. 
 
