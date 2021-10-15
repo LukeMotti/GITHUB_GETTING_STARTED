@@ -11,6 +11,12 @@ You can read them in the order of appearance but here are some highlights.
 The [GitHub Handbook](https://guides.github.com/introduction/git-handbook/) explains the Git
 version control system and how it integrates with GitHub.
 
+### Documenting your projects in GitHub
+The [Wiki Guide](https://guides.github.com/features/wikis/) tells how to create README files
+(like this one) to give a short project documentation. To do this with GitHub markdown language 
+is explained in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
+(Note the wiki pages are reserved for public repositories.)
+
 ### Hello World
 The [GitHub Desktop Guide](https://docs.github.com/en/desktop) tells you how to use 
 GitHub Desktop to manage your project work. It may look overwhelming at start but
@@ -25,4 +31,5 @@ just remeber the basic work flow with Git/GitHub:
   + Update the your local repository with files from previous `git add`
 + `git push`
   + Push the `git commit` updates to the GitHub repository
+  
    
