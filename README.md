@@ -4,7 +4,7 @@ to be a full manual but it will guide you to (well written) manuals instead, pro
 some ordering of the reading list.
 
 ## GitHub Guides
-The [GitHub guides](https://guides.github.com) provides good tutorials for Git and GutHub.
+The [GitHub guides](https://guides.github.com) provides good tutorials for Git and GitHub.
 You can read them in the order of appearance but here are some highlights.
 
 ### GitHub Handbook
