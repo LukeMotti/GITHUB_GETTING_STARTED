@@ -28,7 +28,7 @@ Doxygen can exploit the program structure together with the annotated comments a
 generate software documentation in various formats (html, pdf). Regarding Motti this is mostly
 applicable to Fortran and python. 
 
-Yes, the longest section. But the documentation should give favourable time to others and the *future yourself* to understand
+Documentation should give favourable time to others and the *future yourself* to understand
 how to get involved and and participate hereafter in the software development. 
 
 ### Mastering Issues
