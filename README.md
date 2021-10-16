@@ -29,7 +29,7 @@ generate software documentation in various formats (html, pdf). Regarding Motti 
 applicable to Fortran and python. 
 
 Documentation should give favourable time to others and the *future yourself* to understand
-how to get involved and and participate hereafter in the software development. 
+how to get involved and and participate in the software development. 
 
 ### Mastering Issues
 GitHub Issues are to keep track of tasks, enhancements and bugs for your projects. This
