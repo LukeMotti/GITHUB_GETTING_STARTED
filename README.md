@@ -28,7 +28,7 @@ Doxygen can exploit the program structure together with the annotated comments a
 generate software documentation in various formats (html, pdf). Regarding Motti this is mostly
 applicable to Fortran and python. 
 
-Documentation should give favourable time to others and the *future yourself* to understand
+Documentation should give favourable time to others and the *future you* to understand
 how to get involved and and participate in the software development. 
 
 ### Mastering Issues
