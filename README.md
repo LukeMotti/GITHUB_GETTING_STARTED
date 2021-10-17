@@ -25,7 +25,7 @@ Note the GitHub wiki pages are available for public repositories or on commercia
 
 We plan to use [Doxygen](https://www.doxygen.nl/index.html) to integrate the software development and documentation.
 Doxygen can exploit the program structure together with the annotated comments and automatically
-generate software documentation in various formats (e.g. html, pdf. Regarding Motti this is mostly
+generate software documentation in various formats (e.g. html and pdf). Regarding Motti this is mostly
 applicable to Fortran and python. 
 
 Documentation should give favourable time to others and the *future you* to understand
