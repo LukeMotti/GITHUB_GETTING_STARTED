@@ -29,7 +29,7 @@ generate software documentation in various formats (e.g. html and pdf). Regardin
 applicable to Fortran and python. 
 
 Documentation should give favourable time to others and the *future you* to understand
-how to get involved and and participate in the software development. Program is more often
+how to get involved and and participate in the software development. Programs are more often
 read than written.
 
 ### Mastering Issues
