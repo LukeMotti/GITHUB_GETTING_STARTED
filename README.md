@@ -29,7 +29,8 @@ generate software documentation in various formats (e.g. html and pdf). Regardin
 applicable to Fortran and python. 
 
 Documentation should give favourable time to others and the *future you* to understand
-how to get involved and and participate in the software development. 
+how to get involved and and participate in the software development. Program is more often
+read than written.
 
 ### Mastering Issues
 GitHub Issues are to keep track of tasks, enhancements and bugs for your projects. This
