@@ -45,7 +45,7 @@ just remember the *basic work flow* with Git/GitHub:
 + `git pull`
   + Update the local repository from the GitHub repository
 + `git add` \<files\>
-  + Prepare the edited files for commit and push
+  + Add new files or prepare the edited files for commit and push
 + `git commit`
   + Update the your local repository with files from previous `git add` commands.
 + `git push`
